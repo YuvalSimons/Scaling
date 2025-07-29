@@ -1,7 +1,10 @@
 Use:
 infer_this_data_final('datafile.mat','Resultsfolder/resultfilename.mat','SSD')
+
 or
+
 infer_this_data_final('datafile.mat','Resultsfolder/resultfilename.mat','TSD')
+
 
 Options:
 boot 		bootstrap number (0 indicates no bootstrap)
